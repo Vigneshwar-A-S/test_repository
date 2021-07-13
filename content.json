@@ -1,0 +1,53 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.viztushar.stickerpack",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Taffy Cat",
+      "publisher": "Tushar Parmar",
+      "tray_image_file": "https://googlechrome.github.io/samples/picture-element/images/kitten-small.png",
+      "publisher_email":"viztushar@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://pngimg.com/uploads/triangle/triangle_PNG30.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+            "image_file": "https://pngimg.com/uploads/triangle/triangle_PNG30.png",
+            "emojis": ["ðŸ™‚"]
+        },
+        {
+            "image_file": "https://pngimg.com/uploads/triangle/triangle_PNG30.png",
+            "emojis": ["ðŸ™‚"]
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Taffy Cat 2",
+      "publisher": "Tushar Parmar",
+      "tray_image_file": "https://googlechrome.github.io/samples/picture-element/images/kitten-small.png",
+      "publisher_email":"viztushar@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+            "image_file": "https://pngimg.com/uploads/triangle/triangle_PNG30.png",
+            "emojis": ["ðŸ™‚"]
+        },
+        {
+            "image_file": "https://pngimg.com/uploads/triangle/triangle_PNG30.png",
+            "emojis": ["ðŸ™‚"]
+        },
+        {
+            "image_file": "https://pngimg.com/uploads/triangle/triangle_PNG30.png",
+            "emojis": ["ðŸ™‚"]
+        }
+      ]
+    }
+  ]
+}
